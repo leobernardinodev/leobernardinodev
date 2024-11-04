@@ -18,4 +18,4 @@
 
  "Acredito que a tecnologia tem o poder de transformar o mundo."
 
- Um estudante de front-end em desenvolvimento constante busca aprimorar suas habilidades técnicas e soft skills para se destacar no mercado de trabalho.
+ Um estudante de front-end em desenvolvimento constante buscando aprimorar suas habilidades técnicas e soft skills para se destacar no mercado de trabalho.
